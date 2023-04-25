@@ -7,7 +7,6 @@ import GeoPageDetail from "../pages/GeoDetail/geoDetail.page";
 
 export default function Router() {
 
-  // sempre e geralmente a palavra Home tende a ser a path vazia = '/'
   return (
     <BrowserRouter>
       <Routes>
